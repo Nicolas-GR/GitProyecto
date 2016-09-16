@@ -9,6 +9,10 @@ public class GitProyecto {
                 + "subir");
         System.out.println("Cambios desde la rama testeo");
         System.out.println("Commits para ensayo");
+        for (;;) {
+            System.out.println("impresión infinita de commit's");
+
+        }
 
     }
 
